@@ -1,0 +1,24 @@
+body {
+    background-color: beige;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+    font-size: 23px;
+    color: brown;
+    text-align: center;
+    margin: 20px;;
+}
+
+table {
+    width: 80%;
+    border-color: brown;
+}
+
+#head {
+    text-align: center;
+}
+
+#left {
+    text-align: center;
+}

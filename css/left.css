@@ -1,0 +1,25 @@
+body {
+    background-color: beige;
+}
+
+fieldset {
+    border: 0;
+}
+
+legend {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    color: brown;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 500;
+    font-size: 15px;
+}
+
+a:hover {
+    color: brown;
+}

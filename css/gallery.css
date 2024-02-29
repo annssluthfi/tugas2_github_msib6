@@ -1,0 +1,16 @@
+body{
+    background-color: beige;
+}
+
+h1 {
+    text-align: center;
+    margin: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: brown;
+    font-size: 25px;
+}
+
+img {
+    padding: 10px;
+    width: 450px;
+}
